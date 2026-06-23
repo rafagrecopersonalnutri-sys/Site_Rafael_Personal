@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle } from "lucide-react";
 import logoRafael from "../assets/Logo_RafaelGreco.png";
 
-const WHATSAPP_LINK = "https://wa.me/555511983598420?text=Olá%20Rafael%2C%20quero%20conhecer%20o%20Método%20Xô%20Gordura!";
+const WHATSAPP_LINK = "https://wa.me/5511983598420?text=Olá%20Rafael%2C%20quero%20conhecer%20o%20Método%20Xô%20Gordura!";
 
 
 export default function Header() {
