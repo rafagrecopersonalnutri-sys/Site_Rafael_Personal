@@ -76,7 +76,7 @@ export default function Home() {
                 <span className="bg-gradient-to-r from-[#f60104] to-[#f60104]  bg-clip-text text-transparent"> Precisa do método certo.</span>              </h1>
 
               <p className="text-gray-300 text-lg md:text-xl leading-relaxed mb-8">
-                Eu sou o Rafael Greco, personal trainer especialista em emagrecimento feminino.
+                Eu sou o Rafael Greco, PERSONAL TRAINER e NUTRICIONISTA especialista em emagrecimento feminino.
                 Com o Método Xô Gordura, mulheres como você estão perdendo gordura, recuperando
                 a autoestima e se sentindo bem no próprio corpo — sem dietas malucas e sem horas
                 na academia.
