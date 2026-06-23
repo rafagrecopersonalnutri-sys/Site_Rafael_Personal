@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/accordion";
 import {
   Clock,
+  Dumbbell,
   Apple,
   Brain,
   Smartphone,
@@ -17,6 +18,7 @@ import {
   Zap,
   Users,
   TrendingUp,
+
 } from "lucide-react";
 
 // Import da foto do Rafael e do fundo
@@ -214,6 +216,11 @@ export default function Home() {
                 description: "Feitos pra encaixar na sua rotina, em casa ou em qualquer lugar",
               },
               {
+                icon: Dumbbell,
+                title: "Treine em qualquer lugar",
+                description: "Treinos para academia, condomínio ou em casa para utilizar aparelhos ou acessórios",
+              },
+              {
                 icon: Apple,
                 title: "Nutrição personalizada",
                 description: "Sem dietas genéricas, com orientação feita pra você",
@@ -353,7 +360,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
             {[
               "🏋🏻‍♀️ Treinos rápidos e eficazes (15 min) pra fazer em casa ou em qualquer lugar",
-              "💪 Treinos para academia, se você já treinar",
+              "💪 Treinos para academia, condomínio ou em casa com vídeos",
               "🍎 Acompanhamento nutricional com orientações e cardápio",
               "🔥 Método que acelera a queima de gordura",
               "🧠 Aulas de Psicoterapia para mudança de hábitos e controle do comer emocional",
